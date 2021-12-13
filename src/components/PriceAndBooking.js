@@ -19,23 +19,20 @@ const PriceAndBooking = () => {
             <tbody>
                 <tr>
                     <td>Adult classes</td>
-                    <td>£6.00</td>
+                    <td>£6.50</td>
                 </tr>
                 <tr>
                     <td>Children's classes</td>
-                    <td>£4.00 (payable half termly in advance)</td>
+                    <td>£4.50 (payable half termly in advance)</td>
                 </tr>
                 <tr>
                     <td>Dance nights</td>
                     <td>price as advertised for the event</td>
                 </tr>
                 <tr>
-                    <td>Fitsteps</td>
-                    <td>£6.00</td>
-                </tr>
-                <tr>
                     <td>Medal Class</td>
-                    <td>£6.00</td>
+                    <td>£6.50 (1 hour class)</td>
+                    <td>£3.50 (30 minute class)</td>
                 </tr>
                 <tr>
                     <td>Workshop (2hrs)</td>
@@ -51,7 +48,7 @@ const PriceAndBooking = () => {
                 </tr>
                 <tr>
                     <td>Private lesson</td>
-                    <td>£35.00 per hour</td>
+                    <td>£37.00 per hour</td>
                 </tr>
                 <tr>
                     <td>Music/ tuition for events</td>

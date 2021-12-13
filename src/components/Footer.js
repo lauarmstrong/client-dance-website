@@ -34,14 +34,14 @@ const Footer = () => {
       </MDBContainer> */}
       <div className="footer-copyright text-center py-3">
 
-        <a className="facebook-icon" href="https://www.facebook.com/taketheleaddance" target="_blank">
+        <a className="facebook-icon" href="https://www.facebook.com/taketheleaddance" target="_blank" rel="noreferrer">
           <img
             src="../images/facebook.png"
             alt="facebook"
             height="40px"
           />
         </a>
-        <a href="https://www.instagram.com/taketheleadballroom/" target="_blank">
+        <a href="https://www.instagram.com/taketheleadballroom/" target="_blank" rel="noreferrer">
           <img
             src="../images/instagram.png"
             alt="instagram"

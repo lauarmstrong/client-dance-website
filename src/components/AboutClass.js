@@ -16,9 +16,9 @@ const AboutClass = () => {
                 <h4 className="class-title" id="sequence">Sequence</h4>
                 <p className="class-description">In these classes we learn Sequence dances in a number of different styles from the most popular to the latest ones created.  Sequence dances are set routines that repeat every 16 bars of music and that everyone dances in the same direction around the floor.  They are popular as each partner learns their own set steps and so there is no freestyling element to worry about.</p>
             <hr className="line-break"/>  
-                <h4 className="class-title" id="fitsteps">Fitsteps Dance Fitness</h4>
+                {/* <h4 className="class-title" id="fitsteps">Fitsteps Dance Fitness</h4>
                 <p className="class-description">A great opportunity to get fit with no partner required.  Taking steps from all the Ballroom & Latin dances as well as other genres and adding in some fitness moves, these classes are fun and give you a great workout.  Classes may be available in either Fitsteps FAN (higher energy & impact) or Fitsteps FAB (lower energy and impact) </p>
-                <hr className="line-break"/>  
+                <hr className="line-break"/>   */}
                 <h4 className="class-title" id="medal">Medal Classes</h4>
                 <p className="class-description">This is an opportunity to take your dancing further and get recognition for your efforts.  We can work through the many possible exam levels in a variety of both Ballroom & Latin dances as well some additional stand-alone ones such as the Viennese Waltz and the Argentine Tango.</p>
             <hr className="line-break"/>  

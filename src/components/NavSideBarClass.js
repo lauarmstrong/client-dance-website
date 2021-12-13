@@ -10,7 +10,7 @@ const NavSideBarDance = () => {
                 <ListGroup.Item action href="#ballroom-level" >Ballroom & Latin Level 2/3</ListGroup.Item>
                 <ListGroup.Item action href="#ballroom-kids" >Ballroom & Latin KIDS</ListGroup.Item>
                 <ListGroup.Item action href="#sequence">Sequence</ListGroup.Item>
-                <ListGroup.Item action href="#fitsteps">Fitsteps</ListGroup.Item>
+                {/* <ListGroup.Item action href="#fitsteps">Fitsteps</ListGroup.Item> */}
                 <ListGroup.Item action href="#medal">Medal Classes</ListGroup.Item>
                 <ListGroup.Item action href="#workshops" >Workshops</ListGroup.Item>
                 <ListGroup.Item action href="#private" >Private Lessons</ListGroup.Item>
